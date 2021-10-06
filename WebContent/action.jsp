@@ -6,7 +6,7 @@
 	String move_url = "./";
 	PreparedStatement pstmt = null;
 	/**
-	test tset 
+	test tset test
 	**/
 	/**
 	 * index.jsp와 update.jsp에서 form을 전송할 때
