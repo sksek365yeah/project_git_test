@@ -5,7 +5,9 @@
 	String action = request.getParameter("action");
 	String move_url = "./";
 	PreparedStatement pstmt = null;
-	
+	/**
+	test tset 
+	**/
 	/**
 	 * index.jsp와 update.jsp에서 form을 전송할 때
 	 * action을 hidden값으로 전송한다. 해당 값에 맞는 명령을 수행하도록  작성 
